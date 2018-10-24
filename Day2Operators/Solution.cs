@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day2Operators
 {
-    class Program
+    class Solution
     {
         static void Main(string[] args)
         {
