@@ -15,12 +15,12 @@ namespace Day8DictionariesAndMaps
 
             for(int i = 0; i < n; i++)
             {
-                string[] arrNamePhone = Console.ReadLine().Split(' ');
-                if (arrNamePhone.Length != 2)
+                string[] inputData = Console.ReadLine().Split(' ');
+                if (inputData.Length != 2)
                 {
                     throw new FormatException("Input must be name number. Example: sam 99912222");
                 }
-                phoneBook.Add(arrNamePhone[0], arrNamePhone[1]);
+                phoneBook.Add(inputData[0], inputData[1]);
             }
             
             // Query
