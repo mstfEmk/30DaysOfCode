@@ -33,7 +33,7 @@ namespace Day112DArrays
         static void Main(string[] args)
         {
             ReadArrayInput();
-            int current, max = 0;
+            int current, max = int.MinValue; // = 0; it is causing problem when sum is negative
             for (int i = 1; i < 5; i++)
             {
                 for (int j = 1; j < 5; j++)
