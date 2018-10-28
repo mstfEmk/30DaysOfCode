@@ -8,7 +8,7 @@ namespace Day10BinaryNumbers
 {
     class Solution
     {
-        static int FindConsecutiveOnes(string binary)
+        static int FindMaxConsecutiveOnes(string binary)
         {
             int count = 0;
             int max = 0;
@@ -33,7 +33,7 @@ namespace Day10BinaryNumbers
         {
             int n = Convert.ToInt32(Console.ReadLine());
             string binary = Convert.ToString(n, 2);
-            int count = FindConsecutiveOnes(binary);
+            int count = FindMaxConsecutiveOnes(binary);
             Console.WriteLine(count);
 
         }

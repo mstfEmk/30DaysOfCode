@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4EC6A0D2-9BBC-43CA-9998-F366FA582D50}</ProjectGuid>
+    <ProjectGuid>{267B26F3-0735-430E-872D-0C1205362922}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day9Recursion3</RootNamespace>
-    <AssemblyName>Day9Recursion3</AssemblyName>
+    <RootNamespace>Day112DArrays</RootNamespace>
+    <AssemblyName>Day112DArrays</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

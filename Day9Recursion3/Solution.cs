@@ -2,7 +2,7 @@
 
 namespace Day9Recursion3
 {
-    class Program
+    class Solution
     {
         static int Factorial(int n)
         {
