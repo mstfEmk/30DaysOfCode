@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17MoreExceptions", "Day1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day18QueuesAndStacks", "Day18QueuesAndStacks\Day18QueuesAndStacks.csproj", "{2FE1BA61-4B05-4337-9D3F-A732EBB0DEE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day19Interfaces", "Day19Interfaces\Day19Interfaces.csproj", "{D05703FE-3725-4857-A208-552951C7D038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{2FE1BA61-4B05-4337-9D3F-A732EBB0DEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FE1BA61-4B05-4337-9D3F-A732EBB0DEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FE1BA61-4B05-4337-9D3F-A732EBB0DEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05703FE-3725-4857-A208-552951C7D038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05703FE-3725-4857-A208-552951C7D038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05703FE-3725-4857-A208-552951C7D038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05703FE-3725-4857-A208-552951C7D038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
