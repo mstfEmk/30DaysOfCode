@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21Generics", "Day21Gener
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22BinarySearchTrees", "Day22BinarySearchTrees\Day22BinarySearchTrees.csproj", "{3D1658F5-F7F5-442C-A53C-34EDF17EB024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day23BSTLevel-OrderTraversal", "Day23BSTLevel-OrderTraversal\Day23BSTLevel-OrderTraversal.csproj", "{002EDCED-1D6B-4668-8886-F0037E3BA035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{3D1658F5-F7F5-442C-A53C-34EDF17EB024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1658F5-F7F5-442C-A53C-34EDF17EB024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1658F5-F7F5-442C-A53C-34EDF17EB024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
