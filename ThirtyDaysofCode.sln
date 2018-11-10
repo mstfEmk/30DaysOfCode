@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22BinarySearchTrees", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day23BSTLevel-OrderTraversal", "Day23BSTLevel-OrderTraversal\Day23BSTLevel-OrderTraversal.csproj", "{002EDCED-1D6B-4668-8886-F0037E3BA035}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day24MoreLinkedLists", "Day24MoreLinkedLists\Day24MoreLinkedLists.csproj", "{202FCF61-7C7F-42AF-B30F-2159FD3001CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{002EDCED-1D6B-4668-8886-F0037E3BA035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202FCF61-7C7F-42AF-B30F-2159FD3001CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202FCF61-7C7F-42AF-B30F-2159FD3001CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202FCF61-7C7F-42AF-B30F-2159FD3001CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202FCF61-7C7F-42AF-B30F-2159FD3001CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
